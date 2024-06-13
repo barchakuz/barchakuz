@@ -1,4 +1,4 @@
- ## Bye World
+ ## [Bye World](https://barchakuz.github.io/portfolio/)
 
 <!--
 **barchakuz/barchakuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
